@@ -13,7 +13,7 @@ main()
 	int i;
 	srand((unsigned)time(NULL));
 	while(1){
-		printf("\n\nÇëÊäÈëÊı×Ö");
+		printf("\n\nè¯·è¾“å…¥æ•°å­—");
 		scanf("%d",&i);	
 		random();
 	}
